@@ -20,6 +20,7 @@ Fabric       | Модульный инструмент для возможнос
 Sodium       | Увеличивает частоту кадров, уменьшает задержки, исправляет графические проблемы, не ухудшает графику, в отличии от Optifine.
 Lithium   | Оптимизирует ряд систем, таких как физика игры, ИИ мобов, тик блоков и т. д.
 Phosphor       | Оптимизирует освещение. С ним время, необходимое игре для генерации новых чанков, может быть значительно сокращено.
+VoiceChat       | Добавляет голосовой чат в майнкрафт.
 
 ## Как установить <a name="установка"></a>
 1. Нажми зелёную кнопку "Code", а после "Download ZIP".
@@ -50,6 +51,7 @@ Phosphor       | Оптимизирует освещение. С ним врем
 * [Скачать Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)
 * [Скачать Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
 * [Скачать Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor)
+* [Скачать VoiceChat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
 * [Скачать Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
 
 
