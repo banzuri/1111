@@ -19,10 +19,14 @@
 Название  | Описание
 ----------------|----------------------
 Fabric       | Модульный инструмент для возможности устанавливать моды.
+Fabric API       | Библиотека, которая содержит некоторые общие полезные интерфейсы(нужна для работы некоторых модов).
 Sodium       | Увеличивает частоту кадров, уменьшает задержки, исправляет графические проблемы, не ухудшает графику, в отличии от Optifine.
+Sodium Extra       | Добавляет функции оптифайна - позволяет отключать частицы, анимации и пр.
 Lithium   | Оптимизирует ряд систем, таких как физика игры, ИИ мобов, тик блоков и т. д.
 Phosphor       | Оптимизирует освещение. С ним время, необходимое игре для генерации новых чанков, может быть значительно сокращено.
 VoiceChat       | Добавляет голосовой чат в майнкрафт.
+Mod Menu       | Добавляет кнопку "Моды", в которой можно посмотреть все установленные моды и настроить их.
+
 
 ## Как установить <a name="установка"></a>
 1. Нажми зелёную кнопку "Code", а после "Download ZIP".
@@ -50,10 +54,11 @@ VoiceChat       | Добавляет голосовой чат в майнкра
 
 ## Ссылки на моды <a name="ссылки"></a>
 * [Скачать Fabric](https://fabricmc.net/use/installer)
+* [Скачать Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files)
 * [Скачать Sodium](https://modrinth.com/mod/sodium)
-* [Скачать Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
-* [Скачать Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor)
-* [Скачать VoiceChat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
-* [Скачать Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
-
-
+* [Скачать Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra/files)
+* [Скачать Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium/files)
+* [Скачать Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor/files)
+* [Скачать VoiceChat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files)
+* [Скачать Mod Menu](https://modrinth.com/mod/modmenu?fromcf)
+* [Скачать Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders/files)
