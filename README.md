@@ -60,6 +60,6 @@ Mod Menu       | Добавляет кнопку "Моды", в которой �
 * [Скачать Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra/files)
 * [Скачать Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium/files)
 * [Скачать Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor/files)
-* [Скачать VoiceChat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files)
+* [Скачать VoiceChat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/all?filter-status=1&filter-game-version=2020709689:7499)
 * [Скачать Mod Menu](https://modrinth.com/mod/modmenu?fromcf)
 * [Скачать Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders/files)
