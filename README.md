@@ -50,7 +50,7 @@ VoiceChat       | Добавляет голосовой чат в майнкра
 
 ## Ссылки на моды <a name="ссылки"></a>
 * [Скачать Fabric](https://fabricmc.net/use/installer)
-* [Скачать Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)
+* [Скачать Sodium](https://modrinth.com/mod/sodium)
 * [Скачать Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
 * [Скачать Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor)
 * [Скачать VoiceChat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
