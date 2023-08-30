@@ -22,12 +22,14 @@ Fabric API       | Библиотека, которая содержит нек�
 Sodium       | Увеличивает частоту кадров, уменьшает задержки, исправляет графические проблемы, не ухудшает графику, в отличии от Optifine.
 Sodium Extra       | Добавляет функции оптифайна - позволяет отключать частицы, анимации и пр.
 Lithium   | Оптимизирует ряд систем, таких как физика игры, ИИ мобов, тик блоков и т. д.
-Phosphor       | Оптимизирует освещение. С ним время, необходимое игре для генерации новых чанков, может быть значительно сокращено.
 ImmediatelyFast       | Оптимизирует весь рендеринг (сущностей, блоков, частиц и пр.).
 Krypton       | Оптимизирует интернет соединение.
 EntityCulling       | Пропускает рендеринг объектов, которых не видно.
-VoiceChat       | Добавляет голосовой чат в майнкрафт.
 Mod Menu       | Добавляет кнопку "Моды", в которой можно посмотреть все установленные моды и настроить их.
+Reese's Sodium Options       | Компактное меню настройки Sodium. Предотвращает выход настроек за рамки экрана.
+VoiceChat       | Добавляет голосовой чат в майнкрафт.
+Emotecraft       | Мод на эмоции и анимации.
+Phosphor (старая версия)       | Оптимизирует освещение. С ним время, необходимое игре для генерации новых чанков, может быть значительно сокращено.
 
 
 ## Как установить <a name="установка"></a>
@@ -60,13 +62,15 @@ Mod Menu       | Добавляет кнопку "Моды", в которой �
 ## Ссылки на моды <a name="ссылки"></a>
 * [Скачать Fabric](https://fabricmc.net/use/installer)
 * [Скачать Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files)
-* [Скачать Sodium](https://modrinth.com/mod/sodium)
-* [Скачать Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra/files)
-* [Скачать Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium/files)
-* [Скачать Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor/files)
-* [Скачать ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files)
-* [Скачать Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton/files)
-* [Скачать EntityCulling](https://www.curseforge.com/minecraft/mc-mods/entityculling/files)
-* [Скачать VoiceChat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/all?filter-status=1&filter-game-version=2020709689:7499)
-* [Скачать Mod Menu](https://modrinth.com/mod/modmenu?fromcf)
-* [Скачать Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders/files)
+* [Скачать Sodium](https://modrinth.com/mod/sodium/versions)
+* [Скачать Sodium Extra](https://modrinth.com/mod/sodium-extra/versions)
+* [Скачать Lithium](https://modrinth.com/mod/lithium/versions)
+* [Скачать ImmediatelyFast](https://modrinth.com/mod/immediatelyfast/versions)
+* [Скачать Krypton](https://modrinth.com/mod/krypton/versions)
+* [Скачать EntityCulling](https://modrinth.com/mod/entityculling/versions)
+* [Скачать Mod Menu](https://modrinth.com/mod/modmenu/versions)
+* [Скачать Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options/versions)
+* [Скачать VoiceChat](https://modrinth.com/plugin/simple-voice-chat/versions)
+* [Скачать Emotecraft](https://modrinth.com/mod/emotecraft/versions)
+* [Скачать Phosphor (старая версия)](https://modrinth.com/mod/phosphor/versions)
+* [Скачать Iris Shaders](https://modrinth.com/mod/iris/versions)
